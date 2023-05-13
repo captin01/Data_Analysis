@@ -13,7 +13,7 @@ This will include:
 
 ## Demo
 
-https://tenor.com/bTH4D.gif
+<div class="tenor-gif-embed" data-postid="5435835" data-share-method="host" data-aspect-ratio="1.37302" data-width="100%"><a href="https://tenor.com/view/load-loading-april-fools-gif-5435835">Load Loading GIF</a>from <a href="https://tenor.com/search/load-gifs">Load GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
