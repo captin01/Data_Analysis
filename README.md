@@ -51,5 +51,5 @@ https://tenor.com/bTH4D.gif
 
 ## Screenshots
 
-![App Screenshot](https://www.pinterest.co.uk/pin/172755335699058347/)
+![Karolis Strautniekas _ Folio illustration agency](https://github.com/captin01/Projects/assets/114471010/a7f477fb-b3c4-43bf-a28e-3a7ca01a6af9)
 
