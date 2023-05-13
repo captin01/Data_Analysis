@@ -49,7 +49,5 @@ https://tenor.com/bTH4D.gif
 **Everyone has a talent but obbsession always wins.**
 
 
-## Screenshots
-
 ![Karolis Strautniekas _ Folio illustration agency](https://github.com/captin01/Projects/assets/114471010/a7f477fb-b3c4-43bf-a28e-3a7ca01a6af9)
 
