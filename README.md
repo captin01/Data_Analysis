@@ -5,8 +5,8 @@ This folder is comprised of all the past, current, and future  projects pertaini
 
 This will include:
 - *Data cleaning*
-- *data visualization*
-- *web scraping*
+- *Data visualization*
+- *Web scraping*
 - *Answering research questions*
 
 
@@ -45,7 +45,7 @@ This will include:
 
 ## Motto
 
-**Everyone has a talent but obbsession always wins.**
+**Everyone has a talent but obsession always wins.**
 
 
 ![Karolis Strautniekas _ Folio illustration agency](https://github.com/captin01/Projects/assets/114471010/a7f477fb-b3c4-43bf-a28e-3a7ca01a6af9)
