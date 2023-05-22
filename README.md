@@ -35,10 +35,10 @@ This will include:
 
 **Languages:** Jupyter notebook, Python
 
-**python Libraries:** Pandas, Matplotlib, Seaborn
+**python Libraries:** Pandas, Numpy, Matplotlib, Seaborn
 
 
-## Authors
+## Author
 
 - [@captin01](https://github.com/captin01)
 
