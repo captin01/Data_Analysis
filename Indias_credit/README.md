@@ -15,8 +15,9 @@ This will include:
 ![GitHub top language](https://img.shields.io/github/languages/top/captin01/Projects?color=838996)
 
 ## Tech Stack
+**Environment:** Jupyter notbook
 
-**Languages:** Jupyter notbook, python
+**Languages:** python
 
 **python Libraries:** Pandas, Matplotlib
 
