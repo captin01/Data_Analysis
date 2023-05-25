@@ -64,14 +64,23 @@ This will include:
 ## Quick graphs
 
 **Total amount per year**
+
 ![image](https://github.com/captin01/Projects/assets/114471010/085849af-c143-4619-bde3-28d08f7e5ec8)
+
 **Corellation by months**
+
 ![image](https://github.com/captin01/Projects/assets/114471010/9327eeb9-f275-4f61-803c-45af7c058155)
+
 **Gender comparison for total amount generated**
+
 ![image](https://github.com/captin01/Projects/assets/114471010/19f025ce-4678-4cc4-b7fa-4fe917c02841)
+
 **Card type total amount**
+
 ![image](https://github.com/captin01/Projects/assets/114471010/5c4039a9-07b1-43c9-bacd-2fd6190321f7)
+
 **Expense type total amount**
+
 ![image](https://github.com/captin01/Projects/assets/114471010/9487dd37-419d-4262-921f-51156a937c43)
 
 ## Author
