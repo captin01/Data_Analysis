@@ -83,7 +83,7 @@ This will include:
 
 <u> **_Best performing areas_** </u>
 
-- kingstone came in first in total average price sold compared to other areas within london.
+- kensington and chelsea came in first in total average price sold compared to other areas within london.
 - Here's how all areas performed compared to the mean of average price sold.
 
 ![image](https://github.com/captin01/Projects/assets/114471010/014f200f-034e-43f0-8679-b6751b6ebe18)
