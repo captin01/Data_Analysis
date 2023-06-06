@@ -93,11 +93,11 @@ This will include:
 - The data had blank values which i had to fill using the mean to reduce over estimation of results found during the research.
   -- the area in purple is missing data.
 
-![image](https://github.com/captin01/Projects/assets/114471010/071242bc-d17e-456f-a35f-06af9cac3d0f)
+![image](https://github.com/captin01/Projects/assets/114471010/5b887d63-933c-4b7c-8b09-61406e2aaa63)
 
 --What the dataset looked like after filling the missing values.
 
-![image](https://github.com/captin01/Projects/assets/114471010/caae2229-2370-4d8a-9f60-1f3366a7a82b)
+![image](https://github.com/captin01/Projects/assets/114471010/6c430f08-91c0-4c2f-9274-7be3e318a797)
 
 - As you can see columns such as average price and houses sold had values meaning 2020 was the worst year for the housing industry yet the best year for investing due to the fluctuation of prices.
 
