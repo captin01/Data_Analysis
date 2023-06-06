@@ -47,27 +47,27 @@ This will include:
 - unfortunately 2020 generated the lowest average total with a whopping 20,849,849£.
 - factors such as covid and quarantine caused a stagnation in the global economic activities thus halting the housing market as well.
 
-![image](https://github.com/captin01/Projects/assets/114471010/af309c43-b57e-45e6-af2a-dc859d536e44)
+![image](https://github.com/captin01/Projects/assets/114471010/4f7f4c4d-b0cc-4753-af30-26ce60556013)
 
 - The highest average prices kept increasing gradually with 2018 peeking at 1,463,378£.
 
-![image](https://github.com/captin01/Projects/assets/114471010/758ed56d-9a60-44f2-a947-338d823f6528)
+![image](https://github.com/captin01/Projects/assets/114471010/e86c3694-e27a-4b3e-ba82-f761f2e3b4ef)
 
 - Total number of houses sold increased from 1995 to 2006 thereafter the numbers started to slowly drop having 2020 as its lowest selling year.
 
-![image](https://github.com/captin01/Projects/assets/114471010/764a8d71-6c03-4a0b-a565-4b902a43d4a5)
+![image](https://github.com/captin01/Projects/assets/114471010/97dbf2d5-438c-48bd-acb3-863f31c73fa5)
 
 <u> **_Correlatations_** </u>
 
 -- _how average price is affected by crimes_ --
 
-![image](https://github.com/captin01/Projects/assets/114471010/76d78b36-06cd-47ec-b6f6-d562dce79d3b)
+![image](https://github.com/captin01/Projects/assets/114471010/b5fe1a32-f1b6-47a3-960d-abcda65c8185)
 
 - Areas with an overall average price sold between 200,000£ and 600,000£ experienced the highest crime rates whilst areas with 1,000,000£ and 1,400,000£ have the lowest amount of crimes rates.
 
 -- _how number of houses sold correlate with average price sold_ --
 
-![image](https://github.com/captin01/Projects/assets/114471010/bf025412-6f31-47c7-ba3f-3e1eaa0a6058)
+![image](https://github.com/captin01/Projects/assets/114471010/b0312434-c041-4a1b-b10b-113645d38b2c)
 
 - Majority of houses sold range between an overall total average of 100,000£ and 400,00£ whilst the rest (>400,000£)sold very few houses.
 
@@ -75,18 +75,18 @@ This will include:
 
 - Hot seasons for buying houses is between April and August.
 
-![image](https://github.com/captin01/Projects/assets/114471010/a955a9bf-be0a-4f95-ad87-0d7c6547d4a4)
+![image](https://github.com/captin01/Projects/assets/114471010/47b89047-943e-40e6-abdb-40fb69d45137)
 
 - As for crime, seems as if it reduces during the Q4 festive season or other climatic conditions such as snow freezes the crime activities then it sky rockets after January.
 
-![image](https://github.com/captin01/Projects/assets/114471010/51f776fc-8400-4227-8292-c979343511ed)
+![image](https://github.com/captin01/Projects/assets/114471010/a52eefb1-ac8f-4a3b-9630-ceabf02b619a)
 
 <u> **_Best performing areas_** </u>
 
 - kensington and chelsea came in first in total average price sold compared to other areas within london.
 - Here's how all areas performed compared to the mean of average price sold.
 
-![image](https://github.com/captin01/Projects/assets/114471010/014f200f-034e-43f0-8679-b6751b6ebe18)
+![image](https://github.com/captin01/Projects/assets/114471010/bcf18930-f08f-44bf-8a14-e6185c9edec5)
 
 # Limitaions
 
@@ -103,25 +103,25 @@ This will include:
 
 - Later in the research youll see that even the top areas faces the same issue in 2020.
 
-![image](https://github.com/captin01/Projects/assets/114471010/bcc996d5-23cf-455b-a6c8-b25b088eef79)
+![image](https://github.com/captin01/Projects/assets/114471010/53976528-966a-4650-8476-c2f6ad27461c)
 
 ## Quick graphs
 
 <u> **_Total number of houses sold per area_** </u>
-![image](https://github.com/captin01/Projects/assets/114471010/8755bd98-626b-4630-8c28-381cadc5df1e)
+![image](https://github.com/captin01/Projects/assets/114471010/e693b6f9-0db8-4b66-924b-36f3b587e081)
 
 <u> **_Houses sold in england_** </u>
-![image](https://github.com/captin01/Projects/assets/114471010/85c37be0-005c-4744-b325-9263191da48b)
+![image](https://github.com/captin01/Projects/assets/114471010/8a9385fc-3931-424a-9faf-4367a4a9213d)
 
 <u> **_Top average price sold by area_**</u>
 
-![image](https://github.com/captin01/Projects/assets/114471010/c7ab89e0-64b2-46bd-8a6d-2328144f85a5)
+![image](https://github.com/captin01/Projects/assets/114471010/028d37ca-bf1e-4016-b2e4-f5aec0ec96b2)
 
 <u> **_houses sold in kensington and chelsea_** </u>
-![image](https://github.com/captin01/Projects/assets/114471010/fe0c6933-c26f-4e60-a98f-a4f5b9048b08)
+![image](https://github.com/captin01/Projects/assets/114471010/eb382949-2053-4c6a-bb2c-06b76f43d2f6)
 
 <u> **_Crime influenced areas comparison_** </u>
-![image](https://github.com/captin01/Projects/assets/114471010/4bf9c3d7-744e-4923-9dcd-93d9715810d3)
+![image](https://github.com/captin01/Projects/assets/114471010/af107b74-7203-40b1-9f5d-d2c90a3d9d80)
 
 ## Author
 
