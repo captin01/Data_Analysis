@@ -15,8 +15,6 @@ This will include:
 
 ## Badges
 
-![GitHub top language](https://img.shields.io/github/languages/top/captin01/Projects?color=838996)
-
 ![Static Badge](https://img.shields.io/badge/SQL-grey?style=flat)
 
 ![Static Badge](https://img.shields.io/badge/PowerBI-grey?style=flat)
