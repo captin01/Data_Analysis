@@ -33,7 +33,7 @@ This will include:
 
 ## Tech Stack
 
-**Languages:** Jupyter notebook, Python
+**Languages:** Jupyter notebook, Python, SQL
 
 **python Libraries:** Pandas, Numpy, Matplotlib, Seaborn
 
